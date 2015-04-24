@@ -1,0 +1,7 @@
+C:\projects\AutocadAddin\AutocadAddin\AutocadAddin\bin\Debug\AutocadAddin.dll
+C:\projects\AutocadAddin\AutocadAddin\AutocadAddin\bin\Debug\AutocadAddin.pdb
+C:\projects\AutocadAddin\AutocadAddin\AutocadAddin\obj\Debug\AutocadAddin.csprojResolveAssemblyReference.cache
+C:\projects\AutocadAddin\AutocadAddin\AutocadAddin\obj\Debug\AutocadAddin.dll
+C:\projects\AutocadAddin\AutocadAddin\AutocadAddin\obj\Debug\AutocadAddin.pdb
+C:\projects\AutocadAddin\AutocadAddin\AutocadAddin\obj\Debug\AutocadAddin.csproj.GenerateResource.Cache
+C:\projects\AutocadAddin\AutocadAddin\AutocadAddin\obj\Debug\AutocadAddin.DrawForm.resources
